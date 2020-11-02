@@ -3,9 +3,9 @@
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
-    <color name="onboarding_color_1">#842F8A</color>
-    <color name="onboarding_color_2">#8E854F</color>
-    <color name="onboarding_color_3">#D684E8</color>
-    <color name="onboarding_color_4">#FF5A3D</color>
-    <color name="onboarding_color_5">#53B8E6</color>
+    <color name="onboarding_color_1">#DC2329</color>
+    <color name="onboarding_color_2">#39DC8A</color>
+    <color name="onboarding_color_3">#39DC8A</color>
+    <color name="onboarding_color_4">#0D06DC</color>
+    <color name="onboarding_color_5">#0D08DC</color>
 </resources>
