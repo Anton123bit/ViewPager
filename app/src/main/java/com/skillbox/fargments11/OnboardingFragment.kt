@@ -34,7 +34,7 @@ class OnboardingFragment: Fragment(R.layout.fargment_onboarding) {
             return OnboardingFragment().withArguments {
                 putInt(KEY_TEXT, textRes)
                 putInt(KEY_COLOR, bgColorRes)
-                putInt(KEY_TEXT, drawableRes)
+                putInt(KEY_IMAGE, drawableRes)
 
             }
         }
